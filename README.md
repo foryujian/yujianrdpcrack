@@ -1,5 +1,5 @@
 # yujianrdpcrack
-御剑RDP爆破工具
+御剑RDP爆破工具(由于一些外部原因工具不再提供下载)
 是一款可以运行在所有安装了.net 4.0下面的可视化RDP爆破工具，解决了Hydra/ncrack/Fast RDP Brute之类的工具无法兼容NLA的问题，大幅提升了爆破速度和降低了工具的使用难度<br>
 
 注意：<br>
